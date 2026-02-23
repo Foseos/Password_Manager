@@ -1,0 +1,4 @@
+cryptography==42.0.5
+pyperclip==1.8.2
+rich==13.7.1
+Pillow==10.2.0
